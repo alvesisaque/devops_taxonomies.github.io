@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/516416395.svg)](https://zenodo.org/badge/latestdoi/516416395)
-
 ## Public Repository for the research "Harmonizing DevOps Taxonomies: Theory Operationalization and Testing"
 
 **Objective:** In this work, we expand the theory-building in the context of DevOps Team Taxonomies. Our main contributions are presenting and executing the Operationalization and Testing phases for a continuously evolving theory on DevOps team structures. 
@@ -13,6 +11,17 @@ We adopted a multimethod or mixed approach in which two different research group
 ![Image](https://github.com/alvesisaque/devops_taxonomies.github.io/blob/main/assets/img/Figure1.png)
 Methodological framework.
 
+### Interview Files
+
+[Interview Guideline](https://github.com/alvesisaque/devops_taxonomies.github.io/blob/main/interview/Interview_Manuel_Pais.pdf)
+
+[Interview Transcription](https://github.com/alvesisaque/devops_taxonomies.github.io/blob/main/interview/interview_transcription_FINAL.pdf)
+
+### Atlas.ti files
+
+[atlas.ti Project](https://github.com/alvesisaque/devops_taxonomies.github.io/blob/main/atlas_files/harmonizing_team_topologies_Operationalization_and_testing.atlproj9)
+
+[Code Report](https://github.com/alvesisaque/devops_taxonomies.github.io/blob/main/atlas_files/Report_codebook.pdf)
 
 ## Questions & Comments
 
